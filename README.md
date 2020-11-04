@@ -1,9 +1,16 @@
 # Backend Developer Checklist
 A list of topics/concepts that (most) backend developers should be familiar with. 
 
-### Git
+### The Basics
+* Master at least one modern programming language, backend framework & database. 
+* In 2020: Javascript, Python, Ruby are all a good place to start. But get familiar with other programming languages (especially other paradigms).
+* Practice writing code and solving problems. A lot. Codewars, CodeChef, Leetcode are all great platforms to get started. 
+* Build (a lot of) small side-projects, but go big once in a while (e.g build a clone of Youtube or WhatsApp). 
+* Slow code is bad (with few exceptions), learn how to properly use common algorithms and data structures.
+
+### Version Control (i.e Git)
 * Make it a habit to commit often and early. 
-* Commits with too many changes are bad (again commit early and often). 
+* Commits with too many changes are not good (again commit early and often). 
 * Writing good commit messages is also important. Look up a convention and stick to it. 
 * Not putting all your code in one branch is important. Learn Gitflow (or equivalent).
 * If you're planning to work with a team (hopefully), learn how to use Pull Requests. 
