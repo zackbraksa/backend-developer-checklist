@@ -45,4 +45,4 @@ A list of topics/concepts that (most) backend developers should be familiar with
 * Writing is only half the job. Being able to explain your ideas is super important. 
 * Practice explaining complex technical concepts and implementations. Your team will be grateful. 
 * Get familiar with giving and receiving feedback about code, yes it's uncomfortable but really important. 
-* There is an art to giving and receiving, get familiar with [the basics](https://buffer.com/resources/how-to-give-receive-feedback-work/). 
+* There is an art to giving and receiving feedback, get familiar with [the basics](https://buffer.com/resources/how-to-give-receive-feedback-work/). 
